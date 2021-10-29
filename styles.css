@@ -1,0 +1,46 @@
+body {
+  font-family: 'Bebas Neue', cursive;
+  color: #555454;
+  min-height: 400px;
+  background-image: url('https://i.ibb.co/S5hQ7np/Running-Papillon-Fallen-little-dog-is-posing-Cute-playful-braun-doggy-or-pet-playing-on-white-studio.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: left;
+  padding: 100px;
+  height: 100vh;
+  position: fixed;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  width: 50%;
+  margin: 0px;
+  padding: 8px;
+  border-radius: 15px;
+  border-color: #eeaeb8;
+  border-style: solid;
+  position: center;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #555454;
+  margin-top: 12px;
+  padding: 8px 8px;
+  border-radius: 15px;
+  border-color: #eeaeb8;
+  border-style: solid;
+  background: #eeaeb8;
+  cursor: pointer;
+}
+button:hover {
+  border-color: #f3a1ad;
+}
